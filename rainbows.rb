@@ -70,6 +70,3 @@ rainbow = [
 ]
 
 puts rainbow.map { |color_hash|  color_hash.keys  }
-
-
-# andrea = melissa.each { |coloree| Rainbow("wah").red }
